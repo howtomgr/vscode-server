@@ -1,0 +1,62 @@
+{
+  "category": "development-tools",
+  "created_date": "2025-09-16T00:00:00.000000",
+  "default_ports": [
+    8080,
+    8443
+  ],
+  "dependencies": [
+    "nodejs",
+    "npm"
+  ],
+  "description": "VS Code Server (code-server) is a free and open-source implementation of Visual Studio Code running on a remote server, accessible through a web browser. As a FOSS alternative to Microsoft's proprietary VS Code Remote Development, it provides full IDE functionality without requiring local installations.",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/development-tools/vscode-server",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/development-tools/vscode-server",
+  "installation_methods": [
+    "native-packages",
+    "npm-install",
+    "binary-release"
+  ],
+  "last_updated": "2025-09-16T00:00:00.000000",
+  "license": "MIT",
+  "maintenance_status": "active",
+  "name": "vscode-server",
+  "repository_url": "https://github.com/howtomgr/vscode-server",
+  "spec_version": "2.0",
+  "subcategory": "development-tools",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "ide",
+    "development",
+    "remote-development",
+    "code-editor",
+    "vs-code"
+  ],
+  "title": "VS Code Server Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/development-tools/vscode-server"
+}
